@@ -12,7 +12,6 @@ const Sidebar = ({mode, setMode}) => {
   // const changeMode = ()=> {
   //   setMode((mode === 'light') ? 'dark' : 'light')
   // }
-
   
   return (
     <Box
